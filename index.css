@@ -1,0 +1,9 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.backgroundcolor {
+  background-color: #0f172a;
+  height: 100vh;
+}
